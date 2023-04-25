@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CartingService", "CartingService\CartingService.csproj", "{7353E854-CB4F-4603-BEF5-EC3504900B6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCartingService", "TestCartingService\TestCartingService.csproj", "{F67CFF10-09B6-430D-B340-17AD3C2EEEC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7353E854-CB4F-4603-BEF5-EC3504900B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7353E854-CB4F-4603-BEF5-EC3504900B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7353E854-CB4F-4603-BEF5-EC3504900B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7353E854-CB4F-4603-BEF5-EC3504900B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67CFF10-09B6-430D-B340-17AD3C2EEEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67CFF10-09B6-430D-B340-17AD3C2EEEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67CFF10-09B6-430D-B340-17AD3C2EEEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67CFF10-09B6-430D-B340-17AD3C2EEEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {592247CC-5233-4877-8CC2-ED0B2CF040E7}
+	EndGlobalSection
+EndGlobal
